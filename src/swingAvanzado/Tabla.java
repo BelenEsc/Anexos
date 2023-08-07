@@ -34,7 +34,7 @@ class MarcoTabla extends JFrame {
 	};
 
 	public MarcoTabla() {
-		setTitle("Arbol Facil");
+		setTitle("Planetas");
 		setBounds(300, 300, 600, 600);
 
 		JTable tablaPlanetas = new JTable(datosFila, nombreColumnas);
